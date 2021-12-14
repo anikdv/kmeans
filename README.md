@@ -104,3 +104,7 @@
  Выполнение алгоритма останавливается тогда, когда центры кластеров перестают меняться больше чем на некоторую _&Delta;&rho;_, либо по достижении лимита итераций.
  
  Пример реализации алгоритма на python можно посмотреть [здесь](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html).
+ 
+ <p align="center">
+  <img src="https://github.com/anikdv/kmeans/blob/main/pictures/qr-code.gif?raw=true" />
+ </p>
